@@ -1,0 +1,35 @@
+html, body {
+    height:100%;
+    margin:0;
+}
+
+#header{
+	width: 100%;
+	background: pink;
+	height:50px;
+}
+
+#wrapper{
+	display: flex;
+	height:100%;
+
+}
+
+.navigation {
+	order: 1;
+	background: aqua;
+	padding:10px;
+	width:200px;
+}
+
+.content {
+	order: 2;
+	width: 100%;
+	background: yellow;
+	padding:10px;
+}
+
+body {
+	padding: 20px;
+	background: grey;
+}
