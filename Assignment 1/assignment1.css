@@ -1,0 +1,36 @@
+.parOne{
+  color:magenta;
+  text-size:20px;
+  font-style:italic;
+  position: relative;
+}
+
+.parTwo{
+  text-size: 20px;
+  text-transform: lowercase;
+  position: absolute;
+}
+
+h1{
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.box{
+  margin:  20px 20% 20px 20%;
+  border: black 3px dashed;
+  padding: 10px 20% 10px 20%;
+}
+
+.posFix{
+  position: fixed;
+}
+
+
+.parTwo,h1,h2{
+  color:indigo
+}
+
+body p{
+  color: blue;
+}
