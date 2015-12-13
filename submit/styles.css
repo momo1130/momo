@@ -1,0 +1,25 @@
+ 
+html body{
+    text-align: center;
+    padding: 40px;
+    margin: 5em 15em;
+    border: solid 10pt black;
+    background-color:#9B9B9D;
+}
+div {
+    text-align: center;
+    padding: 5px;
+    border:solid 1pt black;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+    font-size: 36px;
+    color: black;
+}
+
+p {
+    font-family: arial,verdana,sans-serif;
+    font-size: 16px;
+    color: white;
+}
